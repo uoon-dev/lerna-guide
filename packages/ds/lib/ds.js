@@ -3,5 +3,6 @@
 module.exports = ds;
 
 function ds() {
-    // TODO
+  console.log('test');
+  // TODO
 }
